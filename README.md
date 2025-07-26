@@ -53,7 +53,7 @@ insider-trades-fetcher/
 
 The data provided is for **educational and research purposes only**. Please review the API provider’s **terms of use** and ensure you’re compliant with their policies before using the data commercially or in production.
 
-## 📬 Contact Information
+## Contact Information
 
 **Developer:** Cyrus Wambugu  
 **LinkedIn:** [linkedin.com/in/cyrus-wambugu-b9476195](https://www.linkedin.com/in/cyrus-wambugu-b9476195)  
