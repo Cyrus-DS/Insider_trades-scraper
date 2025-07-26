@@ -1,0 +1,191 @@
+symbol,symbolName,fullName,shortJobTitle,transactionType,amount,reportedPrice,usdValue,eodHolding,transactionDate,symbolCode,hasOptions,symbolType
+AAPL,Apple Inc,Cleo C. Fields,US Congressman,Buy,366,0.00000,"75,000",N/A,06/30/25,STK,Yes,1
+AAPL,Apple Inc,Cleo C. Fields,US Congressman,Buy,366,0.00000,"75,000",N/A,06/30/25,STK,Yes,1
+AAPL,Apple Inc,Cleo C. Fields,US Congressman,Buy,853,0.00000,"175,000",N/A,06/30/25,STK,Yes,1
+AAPL,Apple Inc,Cleo C. Fields,US Congressman,Buy,158,0.00000,"32,500",N/A,06/30/25,STK,Yes,1
+AAPL,Apple Inc,Cleo C. Fields,US Congressman,Buy,372,0.00000,"75,000",N/A,06/25/25,STK,Yes,1
+AAPL,Apple Inc,Cleo C. Fields,US Congressman,Buy,868,0.00000,"175,000",N/A,06/25/25,STK,Yes,1
+AAPL,Apple Inc,Hon Rohit Khanna,US Congressman,Sell,161,0.00000,"32,500",N/A,06/23/25,STK,Yes,1
+AAPL,Apple Inc,Hon Clifford Scott Franklin,US Congressman,Sell,164,0.00000,"32,500",N/A,06/16/25,STK,Yes,1
+AAPL,Apple Inc,Cleo C. Fields,US Congressman,Buy,861,0.00000,"175,000",N/A,06/03/25,STK,Yes,1
+AAPL,Apple Inc,Timothy Keith Moore,US Congressman,Sell,868,0.00000,"175,000",N/A,06/02/25,STK,Yes,1
+AAPL,Apple Inc,Timothy Keith Moore,US Congressman,Buy,372,0.00000,"75,000",N/A,06/02/25,STK,Yes,1
+AAPL,Apple Inc,Hon Rohit Khanna,US Congressman,Buy,156,0.00000,"32,500",N/A,05/19/25,STK,Yes,1
+AAPL,Apple Inc,Chris Kondo,PAO,Sell,"4,486",208.19330,"933,955","15,533",05/12/25,STK,Yes,1
+AAPL,Apple Inc,Jefferson Scott Shreve,US Congressman,Sell,830,0.00000,"175,000",N/A,05/12/25,STK,Yes,1
+AAPL,Apple Inc,Jefferson Scott Shreve,US Congressman,Sell,"3,798",0.00000,"750,000",N/A,05/08/25,STK,Yes,1
+NVDA,Nvidia Corp,Dr Jen Hsun (Jensen) Huang,CEO,Sell,"225,000",169.87000,"38,220,750","857,498,625",07/23/25,STK,Yes,1
+NVDA,Nvidia Corp,Dr Jen Hsun (Jensen) Huang,CEO,Sell,"225,000",172.05230,"38,711,768","857,723,625",07/18/25,STK,Yes,1
+NVDA,Nvidia Corp,Colette Kress,CFO,Sell,"47,650",170.88500,"8,142,670","5,415,862",07/15/25,STK,Yes,1
+NVDA,Nvidia Corp,Dr Jen Hsun (Jensen) Huang,CEO,Sell,"225,000",167.08460,"37,594,034","857,948,625",07/15/25,STK,Yes,1
+NVDA,Nvidia Corp,A Brooke Seawell,N/A,Sell,"96,904",165.11090,"15,999,906","4,239,865",07/14/25,STK,Yes,1
+NVDA,Nvidia Corp,A Brooke Seawell,N/A,Sell,"148,402",161.72150,"23,999,794","4,336,769",07/10/25,STK,Yes,1
+NVDA,Nvidia Corp,Dr Jen Hsun (Jensen) Huang,CEO,Sell,"225,000",161.91120,"36,430,021","858,173,625",07/10/25,STK,Yes,1
+NVDA,Nvidia Corp,Dr Jen Hsun (Jensen) Huang,CEO,Sell,"225,000",158.01770,"35,553,983","858,398,625",07/07/25,STK,Yes,1
+NVDA,Nvidia Corp,A Brooke Seawell,N/A,Sell,"101,925",156.97610,"15,999,789","4,485,171",07/07/25,STK,Yes,1
+NVDA,Nvidia Corp,A Brooke Seawell,N/A,Sell,"100,853",155.84240,"15,717,173","4,587,096",07/01/25,STK,Yes,1
+NVDA,Nvidia Corp,Dr Jen Hsun (Jensen) Huang,CEO,Sell,"225,000",156.27430,"35,161,717","858,623,625",07/01/25,STK,Yes,1
+NVDA,Nvidia Corp,Cleo C. Fields,US Congressman,Buy,"1,108",0.00000,"175,000",N/A,06/30/25,STK,Yes,1
+NVDA,Nvidia Corp,Cleo C. Fields,US Congressman,Buy,"1,108",0.00000,"175,000",N/A,06/30/25,STK,Yes,1
+NVDA,Nvidia Corp,Michael Thomas Mccaul sr,US Congressman,Sell,"4,754",0.00000,"750,000",N/A,06/27/25,STK,Yes,1
+NVDA,Nvidia Corp,A Brooke Seawell,N/A,Sell,"155,209",154.62810,"23,999,673","4,687,949",06/27/25,STK,Yes,1
+NVDA,Nvidia Corp,Tench Coxe,N/A,Award,"1,799",0.00000,"278,881","31,580,007",06/26/25,STK,Yes,1
+NVDA,Nvidia Corp,Cleo C. Fields,US Congressman,Buy,"19,352",0.00000,"3,000,000",N/A,06/26/25,STK,Yes,1
+NVDA,Nvidia Corp,A Brooke Seawell,N/A,Award,"1,799",0.00000,"278,881","4,689,748",06/26/25,STK,Yes,1
+NVDA,Nvidia Corp,Aarti S Shah,N/A,Award,"1,799",0.00000,"278,881","55,007",06/26/25,STK,Yes,1
+NVDA,Nvidia Corp,Mark A Stevens,N/A,Award,"1,799",0.00000,"278,881","35,861,551",06/26/25,STK,Yes,1
+NVDA,Nvidia Corp,Dr Ellen Ochoa,N/A,Award,"1,799",0.00000,"278,881","4,968",06/26/25,STK,Yes,1
+NVDA,Nvidia Corp,Harvey C Jones,N/A,Award,"1,799",0.00000,"278,881","7,503,687",06/26/25,STK,Yes,1
+NVDA,Nvidia Corp,Robert K Burgess,N/A,Award,"1,799",0.00000,"278,881","202,843",06/26/25,STK,Yes,1
+NVDA,Nvidia Corp,John Dabiri,N/A,Award,"1,799",0.00000,"278,881","18,418",06/26/25,STK,Yes,1
+NVDA,Nvidia Corp,Dawn E Hudson,N/A,Award,"1,799",0.00000,"278,881","458,887",06/26/25,STK,Yes,1
+NVDA,Nvidia Corp,Dr. Persis S Drell,N/A,Award,"1,799",0.00000,"278,881","182,627",06/26/25,STK,Yes,1
+NVDA,Nvidia Corp,Melissa B. Lora,N/A,Award,"1,799",0.00000,"278,881","15,657",06/26/25,STK,Yes,1
+NVDA,Nvidia Corp,Stephen C Neal,N/A,Award,"1,799",0.00000,"278,881","214,567",06/26/25,STK,Yes,1
+NVDA,Nvidia Corp,Dr Jen Hsun (Jensen) Huang,CEO,Sell,"200,000",152.32710,"30,465,420","858,848,625",06/26/25,STK,Yes,1
+NVDA,Nvidia Corp,Jay K Puri,VP of Ops,Sell,"168,195",152.63850,"25,673,033","4,699,100",06/25/25,STK,Yes,1
+NVDA,Nvidia Corp,Cleo C. Fields,US Congressman,Buy,486,0.00000,"75,000",N/A,06/25/25,STK,Yes,1
+NVDA,Nvidia Corp,Cleo C. Fields,US Congressman,Buy,486,0.00000,"75,000",N/A,06/25/25,STK,Yes,1
+NVDA,Nvidia Corp,A Brooke Seawell,N/A,Sell,"165,430",145.07490,"23,999,740","4,843,158",06/24/25,STK,Yes,1
+NVDA,Nvidia Corp,Dr Jen Hsun (Jensen) Huang,CEO,Sell,"100,000",144.03590,"14,403,591","859,048,625",06/23/25,STK,Yes,1
+NVDA,Nvidia Corp,Donald F Robertson jr,CAO,Sell,"4,500",143.65980,"646,470","467,625",06/20/25,STK,Yes,1
+NVDA,Nvidia Corp,Colette Kress,CFO,Sell,"50,500",144.20710,"7,282,458","5,463,512",06/20/25,STK,Yes,1
+NVDA,Nvidia Corp,Mark A Stevens,N/A,Sell,"608,248",145.26330,"88,356,112","35,859,752",06/18/25,STK,Yes,1
+NVDA,Nvidia Corp,Michael Thomas Mccaul sr,US Congressman,Sell,"1,209",0.00000,"175,000",N/A,06/16/25,STK,Yes,1
+NVDA,Nvidia Corp,Tench Coxe,N/A,Sell,"1,000,000",142.80460,"142,804,601","31,578,208",06/09/25,STK,Yes,1
+NVDA,Nvidia Corp,Mark A Stevens,N/A,Sell,"358,849",142.20150,"51,028,867","36,468,000",06/09/25,STK,Yes,1
+NVDA,Nvidia Corp,Cleo C. Fields,US Congressman,Buy,228,0.00000,"32,500",N/A,06/09/25,STK,Yes,1
+NVDA,Nvidia Corp,Cleo C. Fields,US Congressman,Buy,"1,227",0.00000,"175,000",N/A,06/09/25,STK,Yes,1
+NVDA,Nvidia Corp,Cleo C. Fields,US Congressman,Buy,"2,679",0.00000,"375,000",N/A,06/05/25,STK,Yes,1
+NVDA,Nvidia Corp,Cleo C. Fields,US Congressman,Buy,230,0.00000,"32,500",N/A,06/03/25,STK,Yes,1
+NVDA,Nvidia Corp,Cleo C. Fields,US Congressman,Buy,"1,239",0.00000,"175,000",N/A,06/03/25,STK,Yes,1
+NVDA,Nvidia Corp,Mark A Stevens,N/A,Sell,"1,060,836",140.54420,"149,094,347","36,826,849",06/03/25,STK,Yes,1
+NVDA,Nvidia Corp,John Dabiri,N/A,Sell,660,138.80000,"91,608","16,619",05/30/25,STK,Yes,1
+NVDA,Nvidia Corp,Robert K Burgess,N/A,Sell,"50,000",134.81640,"6,740,819","201,044",05/30/25,STK,Yes,1
+NVDA,Nvidia Corp,Jefferson Scott Shreve,US Congressman,Sell,"6,098",0.00000,"750,000",N/A,05/12/25,STK,Yes,1
+NVDA,Nvidia Corp,Jefferson Scott Shreve,US Congressman,Buy,"1,491",0.00000,"175,000",N/A,05/08/25,STK,Yes,1
+MSFT,Microsoft Corp,Michael Thomas Mccaul sr,US Congressman,Sell,756,0.00000,"375,000",N/A,06/27/25,STK,Yes,1
+MSFT,Microsoft Corp,Cleo C. Fields,US Congressman,Buy,152,0.00000,"75,000",N/A,06/25/25,STK,Yes,1
+MSFT,Microsoft Corp,Hon Clifford Scott Franklin,US Congressman,Sell,68,0.00000,"32,500",N/A,06/16/25,STK,Yes,1
+MSFT,Microsoft Corp,Michael Thomas Mccaul sr,US Congressman,Sell,365,0.00000,"175,000",N/A,06/16/25,STK,Yes,1
+MSFT,Microsoft Corp,Michael Thomas Mccaul sr,US Congressman,Sell,68,0.00000,"32,500",N/A,06/16/25,STK,Yes,1
+MSFT,Microsoft Corp,Teri L List-Stoll,N/A,Award,132,0.00000,"62,161","2,547",06/10/25,STK,Yes,1
+MSFT,Microsoft Corp,Mark Mason,N/A,Award,132,0.00000,"62,161","1,275",06/10/25,STK,Yes,1
+MSFT,Microsoft Corp,Charles W Scharf,N/A,Award,132,0.00000,"62,161","45,017",06/10/25,STK,Yes,1
+MSFT,Microsoft Corp,John William Stanton,N/A,Award,132,0.00000,"62,161","85,748",06/10/25,STK,Yes,1
+MSFT,Microsoft Corp,Takeshi Numoto,CMO,Sell,"3,000",463.00000,"1,389,001","43,930",06/03/25,STK,Yes,1
+MSFT,Microsoft Corp,Cleo C. Fields,US Congressman,Buy,810,0.00000,"375,000",N/A,06/03/25,STK,Yes,1
+MSFT,Microsoft Corp,John Williams Rose,US Congressman,Sell,810,0.00000,"375,000",N/A,06/03/25,STK,Yes,1
+MSFT,Microsoft Corp,Takeshi Numoto,CMO,Sell,"1,000",460.00800,"460,009","47,089",05/30/25,STK,Yes,1
+MSFT,Microsoft Corp,Hon Rohit Khanna,US Congressman,Buy,71,0.00000,"32,500",N/A,05/28/25,STK,Yes,1
+MSFT,Microsoft Corp,Kathleen T Hogan,HR,Sell,"21,500",453.77450,"9,756,152","134,888",05/21/25,STK,Yes,1
+MSFT,Microsoft Corp,Judson B Althoff,Chf Com Off.,Sell,"16,000",458.17610,"7,330,817","98,010",05/19/25,STK,Yes,1
+MSFT,Microsoft Corp,Amy Coleman,CHRO,Sell,"13,243",452.01150,"5,985,886","43,100",05/15/25,STK,Yes,1
+MSFT,Microsoft Corp,Jefferson Scott Shreve,US Congressman,Sell,"1,669",0.00000,"750,000",N/A,05/12/25,STK,Yes,1
+MSFT,Microsoft Corp,Jefferson Scott Shreve,US Congressman,Buy,"1,712",0.00000,"750,000",N/A,05/08/25,STK,Yes,1
+MSFT,Microsoft Corp,Bradford L Smith,V Chair & Pres,Sell,"81,000",435.83880,"35,302,942","471,036",05/05/25,STK,Yes,1
+MSFT,Microsoft Corp,Hon Gilbert Ray Cisneros,US Congressman,Buy,82,0.00000,"32,500",N/A,04/29/25,STK,Yes,1
+AMZN,Amazon.com Inc,Jeffrey P Bezos,Chair,Sell,"6,612,707",228.34210,"1,509,959,403","887,933,999",07/22/25,STK,Yes,1
+AMZN,Amazon.com Inc,Jeffrey P Bezos,Chair,Sell,"733,195",227.01970,"166,449,709","894,546,706",07/15/25,STK,Yes,1
+AMZN,Amazon.com Inc,Jeffrey P Bezos,Chair,Sell,"6,715,424",225.20630,"1,512,355,792","895,279,901",07/14/25,STK,Yes,1
+AMZN,Amazon.com Inc,Jeffrey P Bezos,Chair,Sell,"485,205",223.99320,"108,682,620","901,995,325",07/09/25,STK,Yes,1
+AMZN,Amazon.com Inc,Jeffrey P Bezos,Chair,Sell,"2,974,445",223.86160,"665,864,017","902,480,530",07/07/25,STK,Yes,1
+AMZN,Amazon.com Inc,Douglas J Herrington,Div. CEO,Sell,"2,500",220.05760,"550,143","521,143",07/01/25,STK,Yes,1
+AMZN,Amazon.com Inc,Jeffrey P Bezos,Chair,Sell,"3,324,926",221.56380,"736,683,239","905,454,975",06/30/25,STK,Yes,1
+AMZN,Amazon.com Inc,Cleo C. Fields,US Congressman,Buy,798,0.00000,"175,000",N/A,06/30/25,STK,Yes,1
+AMZN,Amazon.com Inc,Michael Thomas Mccaul sr,US Congressman,Sell,"1,679",0.00000,"375,000",N/A,06/27/25,STK,Yes,1
+AMZN,Amazon.com Inc,Cleo C. Fields,US Congressman,Buy,826,0.00000,"175,000",N/A,06/25/25,STK,Yes,1
+AMZN,Amazon.com Inc,Cleo C. Fields,US Congressman,Buy,826,0.00000,"175,000",N/A,06/25/25,STK,Yes,1
+AMZN,Amazon.com Inc,Cleo C. Fields,US Congressman,Buy,826,0.00000,"175,000",N/A,06/25/25,STK,Yes,1
+AMZN,Amazon.com Inc,Anthony Christian Wied,US Congressman,Sell,151,0.00000,"32,500",N/A,06/17/25,STK,Yes,1
+AMZN,Amazon.com Inc,Michael Thomas Mccaul sr,US Congressman,Sell,810,0.00000,"175,000",N/A,06/16/25,STK,Yes,1
+AMZN,Amazon.com Inc,Michael Thomas Mccaul sr,US Congressman,Sell,150,0.00000,"32,500",N/A,06/16/25,STK,Yes,1
+AMZN,Amazon.com Inc,Cleo C. Fields,US Congressman,Buy,807,0.00000,"175,000",N/A,06/09/25,STK,Yes,1
+AMZN,Amazon.com Inc,Cleo C. Fields,US Congressman,Buy,346,0.00000,"75,000",N/A,06/09/25,STK,Yes,1
+AMZN,Amazon.com Inc,Cleo C. Fields,US Congressman,Buy,842,0.00000,"175,000",N/A,06/05/25,STK,Yes,1
+AMZN,Amazon.com Inc,David A Zapolsky,Gen Cou & Sec,Sell,"2,920",202.40810,"591,031","47,030",05/22/25,STK,Yes,1
+AMZN,Amazon.com Inc,Douglas J Herrington,Div. CEO,Award,"17,107",0.00000,"3,440,560","526,141",05/21/25,STK,Yes,1
+AMZN,Amazon.com Inc,Indra K Nooyi,N/A,Award,"2,120",0.00000,"434,961","30,700",05/15/25,STK,Yes,1
+AMZN,Amazon.com Inc,Dr. Andrew Y Ng,N/A,Award,"1,984",0.00000,"407,057","1,984",05/15/25,STK,Yes,1
+AMZN,Amazon.com Inc,Jefferson Scott Shreve,US Congressman,Sell,"1,797",0.00000,"375,000",N/A,05/12/25,STK,Yes,1
+AMZN,Amazon.com Inc,Keith Brian Alexander,N/A,Sell,"1,000",210.68000,"210,680","5,465",05/12/25,STK,Yes,1
+AMZN,Amazon.com Inc,Douglas J Herrington,Div. CEO,Sell,"2,500",190.67000,"476,675","513,563",05/01/25,STK,Yes,1
+META,Meta Platforms Inc,Javier Olivan,COO,Sell,517,706.41000,"365,214","117,038",07/21/25,STK,Yes,1
+META,Meta Platforms Inc,Robert M Kimmitt,Lead Indpdt. Dir,Sell,465,723.08000,"336,232","9,342",07/15/25,STK,Yes,1
+META,Meta Platforms Inc,Jennifer Newstead,CLO,Sell,519,723.08000,"375,278","26,588",07/15/25,STK,Yes,1
+META,Meta Platforms Inc,Javier Olivan,COO,Sell,517,717.50000,"370,947","117,555",07/14/25,STK,Yes,1
+META,Meta Platforms Inc,Jennifer Newstead,CLO,Sell,519,721.57000,"374,494","27,107",07/08/25,STK,Yes,1
+META,Meta Platforms Inc,Javier Olivan,COO,Sell,517,717.51000,"370,953","118,072",07/07/25,STK,Yes,1
+META,Meta Platforms Inc,Mark Zuckerberg,Chair & CEO,Sell,"29,947",730.82790,"21,886,103",0,07/02/25,STK,Yes,1
+META,Meta Platforms Inc,Jennifer Newstead,CLO,Sell,519,737.00000,"382,503","27,626",07/01/25,STK,Yes,1
+META,Meta Platforms Inc,Javier Olivan,COO,Sell,517,740.97200,"383,083","118,589",06/30/25,STK,Yes,1
+META,Meta Platforms Inc,Cleo C. Fields,US Congressman,Buy,102,0.00000,"75,000",N/A,06/30/25,STK,Yes,1
+META,Meta Platforms Inc,Michael Thomas Mccaul sr,US Congressman,Sell,511,0.00000,"375,000",N/A,06/27/25,STK,Yes,1
+META,Meta Platforms Inc,Mark Zuckerberg,Chair & CEO,Sell,"13,793",730.46520,"10,075,306","29,947",06/27/25,STK,Yes,1
+META,Meta Platforms Inc,Mark Zuckerberg,Chair & CEO,Sell,"13,793",722.26950,"9,962,263","43,740",06/26/25,STK,Yes,1
+META,Meta Platforms Inc,Mark Zuckerberg,Chair & CEO,Sell,"27,586",709.56110,"19,573,952","57,533",06/25/25,STK,Yes,1
+META,Meta Platforms Inc,Jennifer Newstead,CLO,Sell,519,704.89000,"365,838","28,145",06/24/25,STK,Yes,1
+META,Meta Platforms Inc,Javier Olivan,COO,Sell,517,683.47000,"353,354","119,106",06/23/25,STK,Yes,1
+META,Meta Platforms Inc,Mark Zuckerberg,Chair & CEO,Sell,500,700.37870,"350,190","85,119",06/20/25,STK,Yes,1
+META,Meta Platforms Inc,Mark Zuckerberg,Chair & CEO,Sell,"2,753",700.43280,"1,928,292","85,619",06/18/25,STK,Yes,1
+META,Meta Platforms Inc,Jennifer Newstead,CLO,Sell,519,701.99000,"364,333","28,664",06/17/25,STK,Yes,1
+META,Meta Platforms Inc,Mark Zuckerberg,Chair & CEO,Sell,"22,105",702.08600,"15,519,611","88,372",06/17/25,STK,Yes,1
+META,Meta Platforms Inc,Michael Thomas Mccaul sr,US Congressman,Sell,46,0.00000,"32,500",N/A,06/16/25,STK,Yes,1
+META,Meta Platforms Inc,Michael Thomas Mccaul sr,US Congressman,Sell,249,0.00000,"175,000",N/A,06/16/25,STK,Yes,1
+META,Meta Platforms Inc,Robert M Kimmitt,Lead Indpdt. Dir,Sell,465,699.27000,"325,161","9,807",06/16/25,STK,Yes,1
+META,Meta Platforms Inc,Javier Olivan,COO,Sell,517,699.27000,"361,523","119,623",06/16/25,STK,Yes,1
+META,Meta Platforms Inc,Mark Zuckerberg,Chair & CEO,Sell,"29,061",701.38370,"20,382,912","110,477",06/11/25,STK,Yes,1
+META,Meta Platforms Inc,Jennifer Newstead,CLO,Sell,519,701.00000,"363,818","29,183",06/10/25,STK,Yes,1
+META,Meta Platforms Inc,Javier Olivan,COO,Sell,517,698.00000,"360,866","120,140",06/09/25,STK,Yes,1
+META,Meta Platforms Inc,Mark Zuckerberg,Chair & CEO,Sell,"1,462",701.13060,"1,025,053","139,538",06/06/25,STK,Yes,1
+META,Meta Platforms Inc,Michael Thomas Mccaul sr,US Congressman,Sell,47,0.00000,"32,500",N/A,06/06/25,STK,Yes,1
+META,Meta Platforms Inc,Andrew Bosworth,CTO,Sell,"10,138",636.85310,"6,456,417","67,512",05/16/25,STK,Yes,1
+META,Meta Platforms Inc,Andrew (Drew) W Houston,N/A,Award,802,0.00000,"516,392","12,161",05/15/25,STK,Yes,1
+META,Meta Platforms Inc,John Arnold,N/A,Award,969,0.00000,"623,920","1,893",05/15/25,STK,Yes,1
+META,Meta Platforms Inc,Robert M Kimmitt,Lead Indpdt. Dir,Award,802,0.00000,"516,392","10,747",05/15/25,STK,Yes,1
+META,Meta Platforms Inc,Dana White,N/A,Award,356,0.00000,"229,221",356,05/15/25,STK,Yes,1
+META,Meta Platforms Inc,Charles Songhurst,N/A,Award,356,0.00000,"229,221",356,05/15/25,STK,Yes,1
+META,Meta Platforms Inc,Marc Lowell Andreessen,N/A,Award,642,0.00000,"413,370","48,773",05/15/25,STK,Yes,1
+META,Meta Platforms Inc,Tracey T. Travis,N/A,Award,802,0.00000,"516,392","12,244",05/15/25,STK,Yes,1
+META,Meta Platforms Inc,Hock Tan,N/A,Award,969,0.00000,"623,920","1,893",05/15/25,STK,Yes,1
+META,Meta Platforms Inc,Nancy Killefer,N/A,Award,802,0.00000,"516,392","12,244",05/15/25,STK,Yes,1
+META,Meta Platforms Inc,Tony Xu,N/A,Award,991,0.00000,"638,085","7,102",05/15/25,STK,Yes,1
+META,Meta Platforms Inc,Peggy Alford,N/A,Award,802,0.00000,"516,392","4,624",05/15/25,STK,Yes,1
+META,Meta Platforms Inc,Dina H Powell,N/A,Award,53,0.00000,"34,126",53,05/15/25,STK,Yes,1
+META,Meta Platforms Inc,Patrick Collison,N/A,Award,53,0.00000,"34,126",53,05/15/25,STK,Yes,1
+META,Meta Platforms Inc,Jennifer Newstead,CLO,Award,"16,722",0.00000,"10,766,962","31,778",05/15/25,STK,Yes,1
+META,Meta Platforms Inc,John Philip Elkann,N/A,Award,356,0.00000,"229,221",392,05/15/25,STK,Yes,1
+META,Meta Platforms Inc,Jennifer Newstead,CLO,Sell,907,645.77000,"585,714","24,749",05/13/25,STK,Yes,1
+META,Meta Platforms Inc,Jefferson Scott Shreve,US Congressman,Sell,274,0.00000,"175,000",N/A,05/12/25,STK,Yes,1
+META,Meta Platforms Inc,Javier Olivan,COO,Sell,608,631.25000,"383,800","113,318",05/12/25,STK,Yes,1
+META,Meta Platforms Inc,Jennifer Newstead,CLO,Sell,921,592.52000,"545,711","25,656",05/06/25,STK,Yes,1
+META,Meta Platforms Inc,Javier Olivan,COO,Sell,608,592.00000,"359,936","113,926",05/05/25,STK,Yes,1
+META,Meta Platforms Inc,Peggy Alford,N/A,Sell,700,583.17730,"408,224","3,822",05/02/25,STK,Yes,1
+META,Meta Platforms Inc,Jennifer Newstead,CLO,Sell,921,545.17000,"502,102","26,577",04/29/25,STK,Yes,1
+META,Meta Platforms Inc,Javier Olivan,COO,Sell,608,555.54000,"337,769","114,534",04/28/25,STK,Yes,1
+AVGO,Broadcom Ltd,Justine F Page,N/A,Sell,800,274.30000,"219,440","24,582",07/14/25,STK,Yes,1
+AVGO,Broadcom Ltd,Michael Thomas Mccaul sr,US Congressman,Sell,650,0.00000,"175,000",N/A,06/27/25,STK,Yes,1
+AVGO,Broadcom Ltd,Hock Tan,CEO,Sell,"40,000",268.29300,"10,731,720","1,456,988",06/26/25,STK,Yes,1
+AVGO,Broadcom Ltd,Gayla J Delly,N/A,Sell,"3,000",265.13000,"795,390","33,352",06/26/25,STK,Yes,1
+AVGO,Broadcom Ltd,Dr Hon Henry Samueli,Chair,Sell,"473,898",265.32620,"125,737,555","86,442,963",06/25/25,STK,Yes,1
+AVGO,Broadcom Ltd,Mark David Brazeal,Corp & legal ofc,Sell,"50,000",262.10100,"13,105,050","365,956",06/24/25,STK,Yes,1
+AVGO,Broadcom Ltd,Kirsten M Spears,CFO & CAO,Sell,"36,350",261.26900,"9,497,127","325,587",06/24/25,STK,Yes,1
+AVGO,Broadcom Ltd,Hock Tan,CEO,Sell,"40,000",262.17300,"10,486,920","1,496,988",06/24/25,STK,Yes,1
+AVGO,Broadcom Ltd,Mark David Brazeal,Corp & legal ofc,Sell,"50,000",253.28500,"12,664,250","415,956",06/23/25,STK,Yes,1
+AVGO,Broadcom Ltd,Hon Nancy Patricia Pelosi,US Congressman,Buy,"12,000",0.00000,"3,000,000",N/A,06/20/25,STK,Yes,1
+AVGO,Broadcom Ltd,Kirsten M Spears,CFO & CAO,Sell,"56,310",251.74900,"14,175,986","361,937",06/18/25,STK,Yes,1
+AVGO,Broadcom Ltd,Justine F Page,N/A,Sell,800,250.35000,"200,280","25,382",06/16/25,STK,Yes,1
+AVGO,Broadcom Ltd,Hock Tan,CEO,Sell,"117,758",252.91000,"29,782,176","1,726,988",06/12/25,STK,Yes,1
+AVGO,Broadcom Ltd,Dr Charlie B Kawwas,Div. Pres.,Sell,"10,000",252.88100,"2,528,810","824,276",06/11/25,STK,Yes,1
+AVGO,Broadcom Ltd,Michael Thomas Mccaul sr,US Congressman,Buy,133,0.00000,"32,500",N/A,06/09/25,STK,Yes,1
+AVGO,Broadcom Ltd,Michael Thomas Mccaul sr,US Congressman,Buy,304,0.00000,"75,000",N/A,06/08/25,STK,Yes,1
+AVGO,Broadcom Ltd,Hon Rohit Khanna,US Congressman,Buy,142,0.00000,"32,500",N/A,05/16/25,STK,Yes,1
+AVGO,Broadcom Ltd,Justine F Page,N/A,Sell,800,230.19000,"184,152","26,182",05/14/25,STK,Yes,1
+AVGO,Broadcom Ltd,Jefferson Scott Shreve,US Congressman,Sell,147,0.00000,"32,500",N/A,05/12/25,STK,Yes,1
+GOOGL,Alphabet Cl A,Kavitarak Ram Shriram,N/A,Sell,"33,566",185.76000,"6,235,220","1,837,108",07/18/25,STK,Yes,1
+GOOGL,Alphabet Cl A,Michael Thomas Mccaul sr,US Congressman,Sell,"2,100",0.00000,"375,000",N/A,06/27/25,STK,Yes,1
+GOOGL,Alphabet Cl A,Michael Thomas Mccaul sr,US Congressman,Sell,424,0.00000,"75,000",N/A,06/16/25,STK,Yes,1
+GOOGL,Alphabet Cl A,John Williams Rose,US Congressman,Sell,"18,053",0.00000,"3,000,000",N/A,06/03/25,STK,Yes,1
+GOOGL,Alphabet Cl A,Kavitarak Ram Shriram,N/A,Sell,"19,500",175.00000,"3,412,499","1,870,674",05/22/25,STK,Yes,1
+GOOGL,Alphabet Cl A,Hon Rohit Khanna,US Congressman,Sell,195,0.00000,"32,500",N/A,05/19/25,STK,Yes,1
+GOOGL,Alphabet Cl A,Jefferson Scott Shreve,US Congressman,Sell,"1,104",0.00000,"175,000",N/A,05/12/25,STK,Yes,1
